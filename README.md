@@ -1,7 +1,7 @@
 # Arroyostack
 
-This project was a wide introduction to unit testing in web application using the React Testing Library and Jest. 
-Throughout the process, I gained knowledge in setting up testing eviroment from the ground up, planning the components for the application, developing the application using React Hooks, and writing tests to ensure the application works as intended.
+This project was a wide introduction to unit testing web application compunents using the React Testing Library and Jest. 
+Throughout the process, I gained knowledge in setting up a testing eviroment from the ground up, planning the components for the application, developing the application using React Hooks, and writing tests to ensure the application works as intended.
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![React.js](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
